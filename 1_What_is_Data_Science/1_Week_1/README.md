@@ -71,9 +71,25 @@ s.
     When data reveals insights, the role of data scientist is to become a storyteller, communicating through results to the project stakeholder
 
     Datascientists can : 
-    
+
         - Use powerful data visualization tools to help the stakeholder 
         
         - Understand the nature of the results.
 
         - And the recommended actions to take.
+
+### Summary
+
+- Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+
+- There are  many paths to a career in data science; most, but not all, involve a little math, a little science, and a lot of curiosity about data.
+
+- New data scientists need to be curious, judgemental and argumentative.
+
+**Why data science is considered the sexiest job in the 21st century**, becuase of paying high salaries for skilled workers.
+
+Organizations can leverages the atmost unlimited amount of data now available to them in a growing numbers of ways.
+
+### Case study 1 Transportation - UBER
+
+In transport, Uber collects real-time user data to discover how many drivers are available,

@@ -160,4 +160,4 @@ for measuring the Physical, chemical and biological data in lakes where cyanobac
 
 The project is also building new algorithmic models to assess the findings. the information collected will lead to better understanding/predictions of when and where cyanobacterial blooms take place, enablinq pro-active appreoaches to project public health in recreational lakes and, in those that supply drinking water.
 
-Data Science :It takes gathering a lot of data, cleaning and preparing it, and then analyzing it to agin insight needed to develop better solutions for today's enterprises.
+Data Science : It takes gathering a lot of data, cleaning and preparing it, and then analyzing it to agin insight needed to develop better solutions for today's enterprises.

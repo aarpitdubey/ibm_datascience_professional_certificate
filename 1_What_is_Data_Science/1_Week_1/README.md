@@ -66,7 +66,7 @@ s.
 ***Ans :*** Data scientist can analyse structure an dun-structure data from many sources and, depending upon the nature of the problem, they analyze data in different ways
 
     Explore the patterns and outliers
-    
+
     Sometimes, it confirms what the oeganization suspects. but siometimes it is completely new knowledge, leading to a completely new apporach.
 
     When data reveals insights, the role of data scientist is to become a storyteller, communicating through results to the project stakeholder
@@ -162,3 +162,7 @@ for measuring the Physical, chemical and biological data in lakes where cyanobac
 The project is also building new algorithmic models to assess the findings. the information collected will lead to better understanding/predictions of when and where cyanobacterial blooms take place, enablinq pro-active appreoaches to project public health in recreational lakes and, in those that supply drinking water.
 
 Data Science : It takes gathering a lot of data, cleaning and preparing it, and then analyzing it to agin insight needed to develop better solutions for today's enterprises.
+
+## Cloud for Data Science
+
+- Cloud is godsent for data scientists, primarily because you're abe to take [the] your data, take your information and put it in the Cloud, put in a central storage system, It allows you to bypass the physical limitations of the computers and the systems you're using and it allows you to deploy the analytics and storage capacities of addvanced machines that do not necessarily have to be your machine (or) your company's machine. Cloud allows you not just to store large amounts of data on servers somewhere in california (or) in Nevada, but it also allows you to deploy very advanced computing algorithms and, the ability to do high-performance computing using machines. 

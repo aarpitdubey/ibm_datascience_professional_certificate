@@ -123,3 +123,5 @@ Analyze custormer complaints data, Used probe data to better understand traffic 
 - planning, operations and evaluation
 
 ![](./images/7_analzing_toronto_street_car_data.PNG)
+
+- By focusing Peak hour clearances and identifying the most congested route

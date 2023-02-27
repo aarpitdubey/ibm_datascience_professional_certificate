@@ -124,4 +124,40 @@ Analyze custormer complaints data, Used probe data to better understand traffic 
 
 ![](./images/7_analzing_toronto_street_car_data.PNG)
 
-- By focusing Peak hour clearances and identifying the most congested route
+- By focusing Peak hour clearances and identifying the most congested route, montly hours lost for commuters due to traffic congestion  dropped from 4.75 hours in 2010 to 3 hours in mid 2014.
+
+![](./images/8_decline_of_peak_hours.PNG)
+
+### Case study 3 Environment - Fresh Water lake and Problem of cyanobacterial blooms.
+<br>
+
+In facing issues in our environment, data science can play a pro-active role.
+
+![](./images/9_environment_case_study.PNG)
+
+- They supply a variety of human and ecological needs, such as providing drinking water and food.
+
+![](./images/10_drinking_water_and_food.PNG)
+
+But lakes across the world are threated by the increase incidences of harmful cyanobacterial bloom.
+
+![](./images/11_cyanobacterial_bloom.PNG)
+
+There are many projects and studies to solve this long-existig dilemma.
+
+In the US, a team of scientists from research centers stretching from Maine to south Carolina is developing high-tech tools to explore cyanobacteria in lakes across the east coast.
+
+Team uses:
+- Robotic boats
+- buoys
+- Camera-equipped drones
+
+![](./images/12_tools_using_to_handle_cyanobacterial_blooms.PNG)
+
+for measuring the Physical, chemical and biological data in lakes where cyanobacteria are detected, collecting large volumes of data related to the lakes and the development of the harmful blooms.
+
+![](./images/13_detecting_harmful_blooms_reddishPinkPolkadots.PNG)
+
+The project is also building new algorithmic models to assess the findings. the information collected will lead to better understanding/predictions of when and where cyanobacterial blooms take place, enablinq pro-active appreoaches to project public health in recreational lakes and, in those that supply drinking water.
+
+Data Science :It takes gathering a lot of data, cleaning and preparing it, and then analyzing it to agin insight needed to develop better solutions for today's enterprises.

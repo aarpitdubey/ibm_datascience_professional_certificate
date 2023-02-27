@@ -92,4 +92,34 @@ Organizations can leverages the atmost unlimited amount of data now available to
 
 ### Case study 1 Transportation - UBER
 
-In transport, Uber collects real-time user data to discover how many drivers are available,
+In transport, Uber collects real-time user data,
+
+![](./images/1_uber_case_study.png)
+
+for figuring out (or) to discover how many drivers are available,
+
+![](./images/2_collect_loc_and_drivers_count_in_specific_area.png)
+
+if more needed, and if they should allow a surge charge to attract more drivers
+
+![](./images/3_surge_charges_for_providing_more_drivers.PNG)
+
+Uber uses data 
+
+![](./images/4_uses_live_data_to_icrease_the_number_of_drivers.PNG)
+
+to put the right numbers of drivers in the right place, at the right time to riders who are willing to pay.
+
+![](./images/5_send_drivers_to_uber_users_passengers.PNG)
+
+### Case study 2 Transportation - Toronto Transportation Commission.
+<br>
+The toronto transport commission has great strides in solving an old problem with traffic flowss, re-structing those flows in and around the city, using data science tools and analysis they have gathered data to better understand street car operations, and identify areas for interventions.
+<br><br>
+
+![](./images/6_toronto_transport_commission.PNG)
+
+Analyze custormer complaints data, Used probe data to better understand traffic performance on main route and created a team bto etter capitalize on big data for
+- planning, operations and evaluation
+
+![](./images/7_analzing_toronto_street_car_data.PNG)

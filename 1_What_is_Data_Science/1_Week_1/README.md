@@ -66,7 +66,8 @@ s.
 ***Ans :*** Data scientist can analyse structure an dun-structure data from many sources and, depending upon the nature of the problem, they analyze data in different ways
 
     Explore the patterns and outliers
-    . some times it confirms what the oeganization suspects. but siometimes it is completely new knowledge, leading to a completely new apporach.
+    
+    Sometimes, it confirms what the oeganization suspects. but siometimes it is completely new knowledge, leading to a completely new apporach.
 
     When data reveals insights, the role of data scientist is to become a storyteller, communicating through results to the project stakeholder
 

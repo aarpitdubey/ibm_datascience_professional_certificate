@@ -39,3 +39,41 @@ In this module, you will view the course syllabus to learn what will be taught i
     - Data science in modern context is a highly relevant field and previously we used to worry about lack of data but now we have data deluge. In past we didn't have algorithms and now, we have python, R, Machine learning, Deep learning having methods and algorithms. In past doftwares were expensive now, it is opensource and free. In past, we could'n'y store large amounts of data, now for a fraction of cost we can have gazillions of datasets for very low cost.
 
     - So tools to work with data, availibilty of data, ability to store and analyze data, its all cheap, it's all available, it's all ubiquitous.
+<hr>
+
+### Fundamentals of Data Science
+
+- In modern algorithms times, the vast quantity of data and it's availibility form massively varied sources. examples : log files, e-mail, social media, sales data, patient information files, sport performance data, sensor data, security cameras live data and many more besides,
+
+- At the same times we have more data avialiable than ever and we  need the computing power to make useful analsis for this huge amount of data and new knowledge.
+
+**Data science can helps Organizations :**
+- Understand their environment. 
+- Analyze existing issues.
+- reavel previously hidden opportunities.
+
+Data scientist use data analysis to add to the knowledge (value) of the organization (Business) by investigating data, exploring the best way to use it to provide value to the business.
+
+***What is the process of Data science?***
+
+***Ans :*** Many organizations will use data science to focus on a specific problem that the organization and it is essential to clarify the question that the organization
+that the organization wants answered. This is the first step of the data science process.
+s.
+> 1. Clarify the questions that the organization wants to be answered. data scientist are the curious people, who ask questions for clarifying the businness need
+
+***What data do we need to solve the problem? and From where will that data come from***
+
+***Ans :*** Data scientist can analyse structure an dun-structure data from many sources and, depending upon the nature of the problem, they analyze data in different ways
+
+    Explore the patterns and outliers
+    . some times it confirms what the oeganization suspects. but siometimes it is completely new knowledge, leading to a completely new apporach.
+
+    When data reveals insights, the role of data scientist is to become a storyteller, communicating through results to the project stakeholder
+
+    Datascientists can : 
+    
+        - Use powerful data visualization tools to help the stakeholder 
+        
+        - Understand the nature of the results.
+
+        - And the recommended actions to take.

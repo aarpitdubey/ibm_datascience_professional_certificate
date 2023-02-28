@@ -4,7 +4,7 @@ The number of devices that are connected to internet are rapidly increases, that
 
 ![](./images/21_foundation_of_bigdata.PNG)
 
-**Definition of Big Data :** Big Data refers to the dynamic, large and disparate volumes of data being created by people, tools, and machines. It requires new, innovative, and scalable technology to collect, host, and analytically process the vast amount of data gathered in order to derive real-time business insights that relate to consumers, risk, productivity management, and enhanced shareholder value" - **Ernst and Young**
+**Definition of Big Data :** "Big Data refers to the dynamic, large and disparate volumes of data being created by people, tools, and machines. It requires new, innovative, and scalable technology to collect, host, and analytically process the vast amount of data gathered in order to derive real-time business insights that relate to consumers, risk, productivity management, and enhanced shareholder value" - **Ernst and Young**
 
 **Certain Common elements :**
 

@@ -1,4 +1,4 @@
-## Foundations of Big Data
+# Foundations of Big Data
 
 The number of devices that are connected to internet are rapidly increases, that we interact with on a daily basis record vast amounts of data about us, it is named as Big Data.
 

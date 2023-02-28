@@ -259,3 +259,27 @@ Drivers : Drivers of volumne are the increase in data sources, higher resolution
 ![](./images/25_mails.PNG)
 
 4. numbers,
+
+![](./images/25_numbers.PNG)
+
+5. Videos
+
+![](./images/25_videos.PNG)
+
+Variety also reflects that data comes from different sources, machines, people, and processes, both internal and external to organizations.
+
+Drivers are mobile technologies, social media, wearable technologies, geo technologies, video, and many more.
+
+![](./images/25_Driver_2.PNG)
+
+**Veracity :** It is the quality and origin of data, its conformity to facts and accuracy.
+
+Attributes include consistency, completeness, integrity, and ambiguity.
+
+![](./images/26_Veracity.PNG)
+
+Drivers includes cost and the need for traceability.
+
+![](./images/26_Veracity_Driver.PNG)
+
+With large amount of data available, the debate rages on about the accuracy of data.

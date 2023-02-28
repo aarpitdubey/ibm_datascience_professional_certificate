@@ -78,4 +78,60 @@ Drivers includes cost and the need for traceability.
 
 ![](./images/26_Veracity_Driver.PNG)
 
-With large amount of data available, the debate rages on about the accuracy of data.
+With large amount of data available, the debate rages on about the accuracy of data in the digital age, is the information, real (or) is it is False?
+
+![](./images/26_Veracity_digital_info_real_or_false.PNG)
+
+
+**Value :** Value is our ability and need to turn data into value.
+
+![](./images/26_Veracity_value.png)
+
+Value isn't just profit
+
+![](./images/27_Value_isnt_just_profit.PNG)
+
+It may have medical and social benefits, as well as customer, employee (or) personal satisfaction.
+
+![](./images/27_benifits_of_value.PNG)
+
+The main reason that why people invest time on understanding Big data is to derive values from it.
+
+![](./images/27_derive_values_from_bigdata.PNG)
+
+## Examples of V's in action:
+
+1. **Velocity :** Every 60 seconds, hours of footage are uploaded to YouTube which is generating data
+
+![](./images/28_Youtube_eg_velocity.png)
+
+See how quickly data accumulate in hours, days, months and years.
+
+
+2. **Volume :** the world population is approximately 7 billion people and the vast majority are now using digital devices; 
+
+![](./images/28_worlds_population_eg_Volume.PNG)
+
+1. mobile phones, 
+2. desktop and laptop computers, 
+3. wearable devices and tablets.
+
+![](./images/28_devices.png)
+
+These devices all generate, capture, and store data - approximately 2.5 quintillion bytes
+that is equivalent to 10 million Blu-ray DVD's 
+
+![](./images/20_10_million_blueray_dvds.PNG)
+
+
+3. **Variety :** Let's think aboout different types of data; text,pictures, films, sound, health data from wearable devices, and many different types of data from devices connected to the Internet Of Thinks (IOT)
+
+![](./images/28_iot_eg_variety.png)
+
+4. **Veracity :** 80% of data is considered to be unstructured and we must devise ways to produce reliable and accurate insights.
+
+![](./images/28_veracity_eg.PNG)
+
+The data must be categorized, analyzed and visualized
+
+![](./images/28_data_categorized_analyzed_visualized.png)

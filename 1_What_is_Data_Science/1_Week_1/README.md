@@ -165,4 +165,30 @@ Data Science : It takes gathering a lot of data, cleaning and preparing it, and 
 
 ## Cloud for Data Science
 
-- Cloud is godsent for data scientists, primarily because you're abe to take [the] your data, take your information and put it in the Cloud, put in a central storage system, It allows you to bypass the physical limitations of the computers and the systems you're using and it allows you to deploy the analytics and storage capacities of addvanced machines that do not necessarily have to be your machine (or) your company's machine. Cloud allows you not just to store large amounts of data on servers somewhere in california (or) in Nevada, but it also allows you to deploy very advanced computing algorithms and, the ability to do high-performance computing using machines. 
+- Cloud is godsent for data scientists, primarily because you're abe to take [the] your data, take your information and put it in the Cloud, put in a central storage system, It allows you to bypass the physical limitations of the computers and the systems you're using and it allows you to deploy the analytics and storage capacities of advanced machines that do not necessarily have to be your machine (or) your company's machine. 
+
+- Cloud allows you not just to store large amounts of data on servers somewhere in california (or) in Nevada, but it also allows you to deploy very advanced computing algorithms and, the ability to do high-performance computing using machines that are not yours.
+
+- Cloud allows you to work on the same data were your collegues are working from different regions of the world.
+
+- Using the cloud, it enables you to get instant access to open source technologies like Apache spark without need to install and configure them locally.
+
+![](./images/14_cloud_distributed_software_onfiguration.PNG)
+
+- Using the cloud also gives you access to the most up-to-date tools and libraries without worry of maintaining them and ensuring that they are up to date.
+
+![](./images/15_cloud_services_to_make_software_upTodate.PNG)
+
+- Cloud is accessible from everywhere and in every time zone. you use cloud based technol.ogies from your laptop, desktops, tablets, mobiles, smart watches etc.,
+
+![](./images/16_cloud_accessibility.PNG)
+
+it enables collaboration more easily that ever before. Multiple collaborators canm access the data simultaneouly, 
+
+
+![](./images/17_cloud_multiple_collaborators.PNG)
+
+working together on producing a solution.
+
+![](./images/18_simultaneously_working_on_data_to_find_solution.png)
+
